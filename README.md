@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/82f6621a-b8d4-4aa1-ae5d-0afb7c89f6cc
 3. 「ソリューション」→「インポート」から `.zip` ファイルをアップロード  
 4. フローを有効化し、ソリューションのカスタマイズをすべて公開
 
-> ![Note] 
+> [!Note] 
 > ソリューションのインポート時には以下のようにHTTP with Microsoft Entra ID で接続を作成するように促されることがあるかと思います。
 >
 > ![image](https://github.com/user-attachments/assets/757ab7f6-eb4a-4e98-a430-e8fbb04dfce5)
