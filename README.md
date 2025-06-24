@@ -40,8 +40,8 @@ https://github.com/user-attachments/assets/82f6621a-b8d4-4aa1-ae5d-0afb7c89f6cc
 ### PowerShellスクリプトで権限設定
 
 1. [PowerShell 7以上をインストール](https://learn.microsoft.com/ja-jp/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.5)
-2. `[ManagePermissionGrant.ps1](https://github.com/microsoft/PowerApps-Samples/tree/master/powershell/connectors/HTTPWithMicrosoftEntraId)` を実行
-3. 対象クラウド環境とユーザー範囲（全ユーザー or 特定ユーザー）を選択
+2. ManagePermissionGrant.ps1 を[リポジトリからダウンロード](https://github.com/microsoft/PowerApps-Samples/tree/master/powershell/connectors/HTTPWithMicrosoftEntraId)してローカルでPowerShell 7以上のバージョンで実行
+3. アクセス権限を設定 (こちらの詳細は、[私の Blog](https://www.geekfujiwara.com/tech/powerplatform/6984/)に記載しています)
 
 ### GitHubのソリューションをインポートして利用
 
