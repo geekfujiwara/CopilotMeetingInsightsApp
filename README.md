@@ -78,6 +78,7 @@ https://github.com/user-attachments/assets/82f6621a-b8d4-4aa1-ae5d-0afb7c89f6cc
 
 このソリューションを利用するには、以下のライセンスが必要です：
 
+- **Microsoft 365 Copilot ライセンス**
 - **Power Apps Premium ライセンス**
 - **AI Builder クレジット** （議事録の整形に使用）
 
