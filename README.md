@@ -82,11 +82,6 @@ https://github.com/user-attachments/assets/82f6621a-b8d4-4aa1-ae5d-0afb7c89f6cc
 - **Power Apps Premium ライセンス**
 - **AI Builder クレジット** （議事録の整形に使用）
 
-詳細は以下のMicrosoft Learnをご参照ください：
-
-- [Power Apps のライセンス オプション](https://learn.microsoft.com/ja-jp/power-platform/admin/powerapps-licensing)
-- AI Builder のライセンスとクレジット
-
 ---
 
 ## 📎 注意事項
